@@ -1,11 +1,14 @@
 {
   "name": "easybot-image-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "EasyBot图片模板开发模块",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MiuxuE",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
 }
