@@ -1,6 +1,6 @@
 # EasyBot图片模板SDK
 
-开发文档: [点我前往](https://docs.hualib.com/template/index.html)
+开发文档: [点我前往](https://docs.hualib.com/template/)
 
 
 ## 使用
